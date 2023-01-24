@@ -1,0 +1,32 @@
+.Code {
+    color: grey;
+    font-style: oblique;
+    
+}
+article {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 100;
+}
+#Audi {
+    text-align: center;
+    
+}
+
+
+#Bmw::first-letter  {
+    font-size: 300%;
+    
+    text-shadow: 4px;
+    line-height: 50px;
+    letter-spacing: 3px;
+
+
+}
+body {
+    background-color: black;
+    background-image: url(http://www.clker.com/cliparts/K/C/r/p/W/o/grey-oak-tree-hi.png);
+    background-repeat: no-repeat;
+    background-position:left top;
+    
+}
