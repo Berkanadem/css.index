@@ -1,0 +1,219 @@
+#status {
+    width: 100%;
+    height: 100%;
+}
+
+#status4 {
+    margin-top: -40px;
+    background-color: white;
+}
+
+#foto2 {
+    width: 900px;
+    height: 450px;
+    margin-top: 2px;
+    margin-left: 50px;
+}
+
+#micheal {
+    font-size: 22px;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-style: oblique;
+}
+
+#nr2 {
+    font-size: 14px;
+    margin-top: -17px;
+    margin-left: 140px;
+    color: rgb(91, 87, 87);
+}
+#lebron2 {
+    font-size: 17px;
+
+    margin-top: -51px;
+    margin-left: 140px;
+ 
+}
+
+#img2 {
+    width: 50px;
+    height: 50px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+
+
+#lorem2 {
+    font-style: oblique;
+    font-size: 25px;
+
+    margin-left: 170px;
+}
+
+#lorem {
+    font-size: 25px;
+
+    margin-left: 170px;
+    font-style: oblique;
+}
+
+#nr {
+
+    font-size: 14px;
+    margin-top: -17px;
+    margin-left: 140px;
+    color: rgb(91, 87, 87);
+}
+#lebron {
+    font-size: 17px;
+
+    margin-top: -51px;
+    margin-left: 140px;
+}
+
+.kan {
+    margin-top: 1px;
+    margin-left: 400px;
+    background-color: white;
+    width: 1000px;
+    height: 500px;
+    display: grid;
+}
+#img {
+    width: 50px;
+    height: 50px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+
+#ser {
+    background-color: grey;
+}
+#friends:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+#friends {
+    
+    text-align: center;
+    font-style: initial;
+    margin: 40px;
+}
+#table:hover {
+    text-decoration: underline;
+    color: white;
+}
+#table {
+   
+    text-align: center;
+    font-style: initial;
+    margin: 40px;
+}
+#profile:hover {
+    text-decoration: underline;
+    color: white;
+}
+#profile {
+    text-align: center;
+    font-style: initial;
+    margin: 40px;
+}
+
+#home:hover {
+    text-decoration: underline;
+    color: white;
+}
+#home {
+    text-align: center;
+    font-style: initial;
+    margin: 40px;
+}
+
+
+#foot {
+    text-align: center;
+    margin-top: 0;
+}
+
+#header {
+    text-align: center;
+    margin-top: 0;
+    
+}
+
+#ol {
+    grid-column: 1/5;
+    color: white;
+    background-color: black;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 30px;
+    width: 100%;
+    float: left;
+
+
+}
+
+#ser {
+    grid-column: 2/5;
+    grid-row: 2/15;
+    height: 1000px;
+    top: 0;
+    margin-top: 71px;
+    margin-left: 0;
+    overflow-x: hidden;
+    
+
+    
+}
+
+#kal {
+    grid-row: 2/10;
+    position: fixed;
+    margin-top: 71px;
+    width: 330px;
+    height: 100%;
+
+    
+
+    
+
+}
+
+#ber {
+    grid-column: 1/5;
+    height: 60px;
+    color: white;
+    background-color: black;
+    position: fixed;
+    left: 0;
+    height: 30px;
+    width: 100%;
+    
+
+}
+
+.cam {
+    display: grid;
+}
+
+
+.hem {
+    padding: 20px;
+    color: black;
+    background-color: grey;
+    border: 1px solid black;
+    overflow: hidden;
+}
+body {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    
+
+}
